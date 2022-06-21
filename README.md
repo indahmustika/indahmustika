@@ -1,5 +1,5 @@
 ## Hi there
-- 🌱 I’m currently learning about Rest API using Laravel, Node.js and Golang
+- 🌱 I’m currently learning ...
 - ⚡ I'm from Indonesia, living in Sidoarjo
 
 ## &#x1f4c8; GitHub Stats
